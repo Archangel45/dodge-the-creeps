@@ -2,3 +2,4 @@
 .fscache
 *~
 *.import
+export_presets.cfg
